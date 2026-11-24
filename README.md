@@ -22,7 +22,7 @@ All public: TCGA-BRCA, METABRIC and CPTAC 2020 breast (via the cBioPortal datahu
 
 ## How to run
 
-See `CHECKLIST.md` for setup on a Mac and a step-by-step walkthrough, including the numbers each step should print. In short:
+See `WALKTHROUGH.md` for a step-by-step explanation of every script. In short:
 
 ```
 python3 -m venv .venv && source .venv/bin/activate
@@ -38,11 +38,10 @@ bash run_all.sh
 | `scripts/` | One script per analysis step, numbered in run order; shared functions in `heromi_lib.py` |
 | `data/` | Small inputs kept in the repo (signature, coverage table, pathway tables, TNBCtype calls); large downloads are ignored by git |
 | `results/` | Tables and figures produced by the scripts |
-| `CHECKLIST.md` | Every step, what it should print, questions and papers |
 | `NOTES.md` | My explanations of each step |
 | `WALKTHROUGH.md` | A plain-language walkthrough of every script, with the key code |
 | `guide/` | The study guide (PDF and Markdown) that explains the whole project from scratch |
 
 ## Use of AI tools
 
-Analysis code was developed with the help of Claude (Anthropic). The research question, the choice of signature and cohorts, the TNBC definitions, the decision to test protein and DNA layers, and the interpretation were mine; each step was re-run and checked by me (see `CHECKLIST.md`).
+Analysis code was developed with the help of Claude (Anthropic). The research question, the choice of signature and cohorts, the TNBC definitions, the decision to test protein and DNA layers, and the interpretation were mine; each step was re-run and checked by me.

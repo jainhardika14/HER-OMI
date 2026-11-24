@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Run the whole HER-OMI pipeline in order, from the project folder:   bash run_all.sh
-# Each step's printed output is also saved to logs/<step>.log so you can compare it with CHECKLIST.md.
-# Step 07 needs your TNBCtype result files in data/tnbctype/ (see CHECKLIST.md, Step 7).
+# Each step's printed output is also saved to logs/<step>.log.
+# Step 07 needs your TNBCtype result files in data/tnbctype/ (already included in this repository).
 set -euo pipefail
 mkdir -p logs results
 STEPS="01_define_tnbc 01b_signature 02_singscore 02b_annotate 02c_tnbc_expression_tables
