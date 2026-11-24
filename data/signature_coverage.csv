@@ -1,0 +1,145 @@
+gene,overlap_count,categories,direction,on_her2_amplicon,locus_group,locus_type,alias_symbol,prev_symbol,entrez_id,TCGA,METABRIC
+LASP1,3,"IHC3, IHC0, IHC1",Upregulated,True,protein-coding gene,gene with protein product,MLN50|Lasp-1,,3927.0,True,True
+FSTL4,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,KIAA1061,,23105.0,True,True
+CAB39L,3,"IHC3, IHC0, IHC2",Upregulated,False,protein-coding gene,gene with protein product,bA103J18.3|FLJ12577|MO2L|MLAA-34,,81617.0,True,True
+CEACAM5,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,CD66e,CEA,1048.0,True,True
+RAB3D,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,RAB16|D2-2|RAD3D,GOV,9545.0,True,True
+RPL19,3,"IHC3, IHC0, IHC1",Upregulated,True,protein-coding gene,gene with protein product,FLJ27452|MGC71997|DKFZp779D216|L19|eL19,,6143.0,True,True
+MPP2,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,False,protein-coding gene,gene with protein product,DKFZp761D0712,DLG2,4355.0,True,True
+SUPT6H,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,KIAA0162|SPT6H,,6830.0,True,True
+PHF12,3,"IHC3, IHC1, IHC2",Upregulated,False,protein-coding gene,gene with protein product,PF1|KIAA1523,,57649.0,True,True
+EFCC1,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,FLJ12057,C3orf73|CCDC48,79825.0,True,True
+NXPH1,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,,,30010.0,True,True
+STARD3,3,"IHC3, IHC0, IHC1",Upregulated,True,protein-coding gene,gene with protein product,es64|MLN64,,10948.0,True,True
+MATN3,3,"IHC3, IHC0, IHC2",Upregulated,False,protein-coding gene,gene with protein product,EDM5|HOA,,4148.0,True,True
+ARFIP2,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,False,protein-coding gene,gene with protein product,POR1,,23647.0,True,True
+ALDH3B2,3,"IHC3, IHC0, IHC2",Upregulated,False,protein-coding gene,gene with protein product,,ALDH8,222.0,True,True
+ACVR1B,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,ALK4|SKR2|ActRIB,ACVRLK4,91.0,True,True
+LMX1B,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,,NPS1,4010.0,True,True
+ERBB2,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,True,protein-coding gene,gene with protein product,NEU|HER-2|CD340|HER2|c-ERB2|c-ERB-2|MLN-19|p185(erbB2),NGL,2064.0,True,True
+GRB7,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,True,protein-coding gene,gene with protein product,,,2886.0,True,True
+MIEN1,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,True,protein-coding gene,gene with protein product,MGC14832|ORB3|XTP4|C35|Rdx12,C17orf37,84299.0,True,True
+CREB3L4,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,AIbZIP|CREB4|CREB3|hJAL|ATCE1,,148327.0,True,True
+PLEKHA6,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,PEPP3|KIAA0969,,22874.0,True,True
+N4BP3,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,LZTS4,,23138.0,True,True
+SEC16A,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,p250|Sec16L,KIAA0310,9919.0,True,True
+ANKRD30A,3,"IHC3, IHC0, IHC2",Upregulated,False,protein-coding gene,gene with protein product,NY-BR-1,,91074.0,True,True
+PWWP3B,3,"IHC3, IHC0, IHC2",Upregulated,False,protein-coding gene,gene with protein product,FLJ33516,MUM1L1,139221.0,True,True
+AZGP1,3,"IHC3, IHC0, IHC2",Upregulated,False,protein-coding gene,gene with protein product,ZA2G|ZAG,,563.0,True,True
+PGAP3,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,True,protein-coding gene,gene with protein product,MGC9753|CAB2|PP1498|PER1,PERLD1,93210.0,True,True
+ADAMTS15,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,,,170689.0,True,True
+COQ7,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,CLK-1|CAT5,,10229.0,True,True
+CDK12,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,True,protein-coding gene,gene with protein product,CRK7|CRKR|KIAA0904,CRKRS,51755.0,True,True
+HID1,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,DMC1|HID-1,C17orf28,283987.0,True,True
+CPLX1,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,False,protein-coding gene,gene with protein product,CPX-I,,10815.0,True,True
+CYP4F22,3,"IHC3, IHC0, IHC2",Upregulated,False,protein-coding gene,gene with protein product,FLJ39501,,126410.0,True,True
+ORMDL3,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,False,protein-coding gene,gene with protein product,,,94103.0,True,True
+IL16,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,LCF|IL-16|prIL-16|HsT19289|FLJ42735|FLJ16806,,3603.0,True,True
+CNTNAP2,3,"IHC3, IHC0, IHC2",Upregulated,False,protein-coding gene,gene with protein product,Caspr2|KIAA0868|NRXN4,,26047.0,True,True
+TP53I11,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,PIG11,,9537.0,True,True
+WNT7B,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,,,7477.0,True,True
+SLC44A4,3,"IHC3, IHC0, IHC2",Upregulated,False,protein-coding gene,gene with protein product,NG22|CTL4|FLJ14491|TPPT|DFNA72,C6orf29,80736.0,True,True
+GPC1-AS1,3,"IHC3, IHC0, IHC1",Upregulated,False,non-coding RNA,"RNA, long non-coding",,,100130449.0,True,False
+SCAMP4,3,"IHC3, IHC0, IHC1",Upregulated,False,protein-coding gene,gene with protein product,FLJ33847,,113178.0,True,True
+RAD17P1,3,"IHC3, IHC0, IHC2",Upregulated,False,pseudogene,pseudogene,HRAD17P1,,9207.0,False,False
+VN1R53P,3,"IHC3, IHC0, IHC2",Upregulated,False,pseudogene,pseudogene,,,100312806.0,False,False
+HOXB-AS2,3,"IHC3, IHC0, IHC1",Upregulated,False,non-coding RNA,"RNA, long non-coding",,,100874350.0,False,False
+SYNPR-AS1,3,"IHC3, IHC1, IHC2",Upregulated,False,non-coding RNA,"RNA, long non-coding",LncFASA,,100874016.0,False,False
+RN7SL314P,3,"IHC3, IHC0, IHC2",Upregulated,False,pseudogene,pseudogene,,,106481836.0,False,False
+TM4SF18-AS1,3,"IHC3, IHC0, IHC2",Upregulated,False,non-coding RNA,"RNA, long non-coding",AC093001.1,,128193290.0,False,False
+NRAV,3,"IHC3, IHC0, IHC1",Upregulated,False,non-coding RNA,"RNA, long non-coding",,DYNLL1-AS1,100506668.0,False,True
+DLGAP2-AS1,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,False,non-coding RNA,"RNA, long non-coding",,,100507435.0,False,True
+ERVE-1,3,"IHC3, IHC0, IHC2",Upregulated,False,other,endogenous retrovirus,HERV-E1|HERVE1|TCONS_00025599,ERVE1,85314.0,False,False
+CYP4F23P,3,"IHC3, IHC0, IHC2",Upregulated,False,pseudogene,pseudogene,,,100422238.0,False,False
+PCGF2,3,"IHC3, IHC0, IHC1",Upregulated,True,protein-coding gene,gene with protein product,MEL-18,ZNF144|RNF110,7703.0,True,True
+CISD3,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,True,protein-coding gene,gene with protein product,Miner2|MiNT,,284106.0,True,False
+LINC01866,3,"IHC3, IHC0, IHC2",Upregulated,False,non-coding RNA,"RNA, long non-coding",,,107985806.0,False,False
+MIR4423,3,"IHC3, IHC0, IHC2",Upregulated,False,non-coding RNA,"RNA, micro",hsa-mir-4423,,100616481.0,False,False
+RAB6C-AS1,3,"IHC3, IHC0, IHC2",Upregulated,False,non-coding RNA,"RNA, long non-coding",,,100131320.0,False,False
+FAM136A,3,"IHC3, IHC0, IHC1",Downregulated,False,,,,,,True,True
+DCBLD2,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,CLCP1|ESDN,,131566.0,True,True
+USP13,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,IsoT-3,,8975.0,True,True
+IGF2BP2,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,IMP-2|p62|P62,,10644.0,True,True
+CLNS1A,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,ICln,CLCI,1207.0,True,True
+TIPIN,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,FLJ20516,,54962.0,True,True
+OXCT1,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,SCOT,OXCT,5019.0,True,True
+WDR76,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,FLJ12973|Cmr1,,79968.0,True,True
+TMEM38B,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,FLJ10493|bA219P18.1|D4Ertd89e|TRIC-B,C9orf87,55151.0,True,True
+CREM,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,hCREM-2,,1390.0,True,True
+SMCHD1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,KIAA0650|FSHD2,,23347.0,True,True
+ATP11C,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,ATPIG|ATPIQ,,286410.0,True,True
+SLC39A14,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,KIAA0062|NET34|ZIP14|ZIP-14,,23516.0,True,True
+C1GALT1,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,C1GALT|T-synthase,,56913.0,True,True
+TBCCD1,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,FLJ10560,,55171.0,True,True
+RPA2,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,,,6118.0,True,True
+WIPF3,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,CR16|FLJ36931,,644150.0,True,True
+PRDX4,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,AOE37-2,,10549.0,True,True
+POT1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,hPot1|DKFZp586D211,,25913.0,True,True
+PSMG2,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,HCCA3|MDS003|MGC15092|CLAST3|HsT1707|PAC2,TNFSF5IP1,56984.0,True,True
+DKC1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,XAP101|dyskerin|NAP57|NOLA4|Cbf5,DKC,1736.0,True,True
+IDO1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,,IDO|INDO,3620.0,True,True
+RBM38,3,"IHC3, IHC1, IHC2",Downregulated,False,protein-coding gene,gene with protein product,HSRNASEB|SEB4D|seb4B|dJ800J21.2,RNPC1,55544.0,True,True
+ATP13A3,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,AFURS1,,79572.0,True,True
+ADAMDEC1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,M12.219,,27299.0,True,True
+RNF138,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,STRIN|NARF,,51444.0,True,True
+GGH,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,GATD10,,8836.0,True,True
+BBS7,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,FLJ10715|BBS2L1,,55212.0,True,True
+PMAIP1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,APR|NOXA,,5366.0,True,True
+CREG1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,,CREG,8804.0,True,True
+SRD5A1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,,,6715.0,True,True
+MYLK4,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,SgK085,,340156.0,True,True
+CDKAL1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,FLJ20342,,54901.0,True,True
+TNFRSF21,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,DR6|CD358,,27242.0,True,True
+SH3KBP1,4,"IHC3, IHC0, IHC1, IHC2",Downregulated,False,protein-coding gene,gene with protein product,CIN85,,30011.0,True,True
+HAUS1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,HEI-C|HsT1461|FLJ40084,CCDC5,115106.0,True,True
+ZIC1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,ZIC|ZNF201,,7545.0,True,True
+OTULIN,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,FLJ34884,FAM105B,90268.0,True,True
+UCHL1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,PGP9.5|Uch-L1|UCHL-1,PARK5,7345.0,True,True
+AGPAT5,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,FLJ11210|LPAAT-e|LPAAT-epsilon|LPLAT5,,55326.0,True,True
+SLC16A1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,MCT|MCT1,,6566.0,True,True
+MRPL17,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,RPML26|MRP-L26|bL17m,,63875.0,True,True
+PAXBP1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,GCFC|fSAP105,C21orf66|GCFC1,94104.0,True,True
+DONSON,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,B17|C2TA|DKFZP434M035,C21orf60,29980.0,True,True
+NOL9,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,FLJ23323|NET6|Grc3,,79707.0,True,True
+GBP4,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,Mpa2,,115361.0,True,True
+IFI16,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,IFNGIP1|PYHIN2,,3428.0,True,True
+GMPS,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,GATD7,,8833.0,True,True
+IGF2BP2-AS1,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",FLJ32900,C3orf65,646600.0,True,True
+CGAS,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,h-cGAS|D4,C6orf150|MB21D1,115004.0,True,True
+NFIL3,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,E4BP4|NFIL3A|NF-IL3A,IL3BP1,4783.0,True,True
+TRIM44,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,DIPB|MC7,,54765.0,True,True
+CLEC4E,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,MINCLE,CLECSF9,26253.0,True,True
+SAAL1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,FLJ41463|SPACIA1,,113174.0,True,True
+SNRPD1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,HsT2456|Sm-D1,SNRPD,6632.0,True,True
+BRD7P3,3,"IHC3, IHC1, IHC2",Downregulated,False,pseudogene,pseudogene,,,23629.0,True,True
+CHRNA5,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,,,1138.0,True,True
+MALT1,4,"IHC3, IHC0, IHC1, IHC2",Downregulated,False,protein-coding gene,gene with protein product,PCASP1,MLT,10892.0,True,True
+ZIC4,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,,,84107.0,True,True
+ZFP82,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,MGC45380|KIAA1948,ZNF545,284406.0,True,True
+PSMG1,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,c21-LRP|LRPC21|PAC1,DSCR2,8624.0,True,True
+LINC00839,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",,,84856.0,True,True
+HPDL,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,MGC15668|4-HPPD-L,GLOXD1,84842.0,True,True
+PLCG2,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,,,5336.0,True,True
+SNHG12,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",PNAS-123|LINC00100|ASLNC04080,C1orf79,85028.0,True,False
+SLC9A6,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,NHE6|KIAA0267|NHE-6,,10479.0,True,True
+RN7SKP79,3,"IHC3, IHC0, IHC1",Downregulated,False,pseudogene,pseudogene,,,106480857.0,False,False
+HLCS-AS1,3,"IHC3, IHC1, IHC2",Downregulated,False,non-coding RNA,"RNA, long non-coding",,,122455337.0,False,False
+PAICSP1,3,"IHC3, IHC0, IHC2",Downregulated,False,pseudogene,pseudogene,,,780814.0,False,False
+SLC16A1-AS1,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",ENST00000421157.1,LINC01357,100506392.0,False,False
+NUTF2P5,3,"IHC3, IHC0, IHC1",Downregulated,False,pseudogene,pseudogene,,,106481706.0,False,False
+EMSLR,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",EMS|BCCE4,,101927746.0,False,False
+HCCS-DT,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",,,121847985.0,False,False
+LRIG2-DT,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",,,100996251.0,False,False
+ETF1P2,3,"IHC3, IHC0, IHC1",Downregulated,False,pseudogene,pseudogene,,SUP45L3,6825.0,False,False
+C4orf54,3,"IHC3, IHC0, IHC1",Downregulated,False,protein-coding gene,gene with protein product,FOPV|LOC285556,,285556.0,False,True
+SLC1A3-AS1,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",AC008957.1|CTD-2353F22.1,,107986412.0,False,False
+TMEM108-AS1,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",,,101927455.0,False,False
+SINHCAFP1,3,"IHC3, IHC0, IHC1",Downregulated,False,pseudogene,pseudogene,HsT2323,FAM60BP,100421588.0,False,False
+SLC6A14,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,,,11254.0,True,True
+NUP153-AS1,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",,,105374952.0,False,False
+AFAP1-AS1,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",ATMLP|MGC10981,AFAP1AS|AFAP1-AS,84740.0,True,False
+ZBTB8B,3,"IHC3, IHC0, IHC2",Downregulated,False,protein-coding gene,gene with protein product,RP1-27O5.1|DKFZp547H154|ZNF916B,,728116.0,True,True
+LINC01387,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",,C18orf64,100130480.0,False,False
+RN7SKP179,3,"IHC3, IHC0, IHC1",Downregulated,False,pseudogene,pseudogene,,,106481815.0,False,False
+ZBED9-AS1,3,"IHC3, IHC0, IHC2",Downregulated,False,,,,,,False,False
+CECR7,3,"IHC3, IHC0, IHC1",Downregulated,False,non-coding RNA,"RNA, long non-coding",SAHL1,,100130418.0,True,False

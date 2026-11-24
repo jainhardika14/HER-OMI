@@ -1,0 +1,145 @@
+gene,overlap_count,categories,direction,on_her2_amplicon
+LASP1,3,"IHC3, IHC0, IHC1",Upregulated,True
+FSTL4,3,"IHC3, IHC0, IHC1",Upregulated,False
+CAB39L,3,"IHC3, IHC0, IHC2",Upregulated,False
+CEACAM5,3,"IHC3, IHC0, IHC1",Upregulated,False
+RAB3D,3,"IHC3, IHC0, IHC1",Upregulated,False
+RPL19,3,"IHC3, IHC0, IHC1",Upregulated,True
+MPP2,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,False
+SUPT6H,3,"IHC3, IHC0, IHC1",Upregulated,False
+PHF12,3,"IHC3, IHC1, IHC2",Upregulated,False
+EFCC1,3,"IHC3, IHC0, IHC1",Upregulated,False
+NXPH1,3,"IHC3, IHC0, IHC1",Upregulated,False
+STARD3,3,"IHC3, IHC0, IHC1",Upregulated,True
+MATN3,3,"IHC3, IHC0, IHC2",Upregulated,False
+ARFIP2,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,False
+ALDH3B2,3,"IHC3, IHC0, IHC2",Upregulated,False
+ACVR1B,3,"IHC3, IHC0, IHC1",Upregulated,False
+LMX1B,3,"IHC3, IHC0, IHC1",Upregulated,False
+ERBB2,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,True
+GRB7,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,True
+MIEN1,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,True
+CREB3L4,3,"IHC3, IHC0, IHC1",Upregulated,False
+PLEKHA6,3,"IHC3, IHC0, IHC1",Upregulated,False
+N4BP3,3,"IHC3, IHC0, IHC1",Upregulated,False
+SEC16A,3,"IHC3, IHC0, IHC1",Upregulated,False
+ANKRD30A,3,"IHC3, IHC0, IHC2",Upregulated,False
+PWWP3B,3,"IHC3, IHC0, IHC2",Upregulated,False
+AZGP1,3,"IHC3, IHC0, IHC2",Upregulated,False
+PGAP3,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,True
+ADAMTS15,3,"IHC3, IHC0, IHC1",Upregulated,False
+COQ7,3,"IHC3, IHC0, IHC1",Upregulated,False
+CDK12,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,True
+HID1,3,"IHC3, IHC0, IHC1",Upregulated,False
+CPLX1,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,False
+CYP4F22,3,"IHC3, IHC0, IHC2",Upregulated,False
+ORMDL3,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,False
+IL16,3,"IHC3, IHC0, IHC1",Upregulated,False
+CNTNAP2,3,"IHC3, IHC0, IHC2",Upregulated,False
+TP53I11,3,"IHC3, IHC0, IHC1",Upregulated,False
+WNT7B,3,"IHC3, IHC0, IHC1",Upregulated,False
+SLC44A4,3,"IHC3, IHC0, IHC2",Upregulated,False
+GPC1-AS1,3,"IHC3, IHC0, IHC1",Upregulated,False
+SCAMP4,3,"IHC3, IHC0, IHC1",Upregulated,False
+RAD17P1,3,"IHC3, IHC0, IHC2",Upregulated,False
+VN1R53P,3,"IHC3, IHC0, IHC2",Upregulated,False
+HOXB-AS2,3,"IHC3, IHC0, IHC1",Upregulated,False
+SYNPR-AS1,3,"IHC3, IHC1, IHC2",Upregulated,False
+RN7SL314P,3,"IHC3, IHC0, IHC2",Upregulated,False
+TM4SF18-AS1,3,"IHC3, IHC0, IHC2",Upregulated,False
+NRAV,3,"IHC3, IHC0, IHC1",Upregulated,False
+DLGAP2-AS1,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,False
+ERVE-1,3,"IHC3, IHC0, IHC2",Upregulated,False
+CYP4F23P,3,"IHC3, IHC0, IHC2",Upregulated,False
+PCGF2,3,"IHC3, IHC0, IHC1",Upregulated,True
+CISD3,4,"IHC3, IHC0, IHC1, IHC2",Upregulated,True
+LINC01866,3,"IHC3, IHC0, IHC2",Upregulated,False
+MIR4423,3,"IHC3, IHC0, IHC2",Upregulated,False
+RAB6C-AS1,3,"IHC3, IHC0, IHC2",Upregulated,False
+FAM136A,3,"IHC3, IHC0, IHC1",Downregulated,False
+DCBLD2,3,"IHC3, IHC0, IHC2",Downregulated,False
+USP13,3,"IHC3, IHC0, IHC1",Downregulated,False
+IGF2BP2,3,"IHC3, IHC0, IHC1",Downregulated,False
+CLNS1A,3,"IHC3, IHC0, IHC1",Downregulated,False
+TIPIN,3,"IHC3, IHC0, IHC2",Downregulated,False
+OXCT1,3,"IHC3, IHC0, IHC2",Downregulated,False
+WDR76,3,"IHC3, IHC0, IHC2",Downregulated,False
+TMEM38B,3,"IHC3, IHC0, IHC1",Downregulated,False
+CREM,3,"IHC3, IHC0, IHC1",Downregulated,False
+SMCHD1,3,"IHC3, IHC0, IHC1",Downregulated,False
+ATP11C,3,"IHC3, IHC0, IHC1",Downregulated,False
+SLC39A14,3,"IHC3, IHC0, IHC1",Downregulated,False
+C1GALT1,3,"IHC3, IHC0, IHC2",Downregulated,False
+TBCCD1,3,"IHC3, IHC0, IHC2",Downregulated,False
+RPA2,3,"IHC3, IHC0, IHC2",Downregulated,False
+WIPF3,3,"IHC3, IHC0, IHC1",Downregulated,False
+PRDX4,3,"IHC3, IHC0, IHC1",Downregulated,False
+POT1,3,"IHC3, IHC0, IHC1",Downregulated,False
+PSMG2,3,"IHC3, IHC0, IHC1",Downregulated,False
+DKC1,3,"IHC3, IHC0, IHC1",Downregulated,False
+IDO1,3,"IHC3, IHC0, IHC1",Downregulated,False
+RBM38,3,"IHC3, IHC1, IHC2",Downregulated,False
+ATP13A3,3,"IHC3, IHC0, IHC2",Downregulated,False
+ADAMDEC1,3,"IHC3, IHC0, IHC1",Downregulated,False
+RNF138,3,"IHC3, IHC0, IHC1",Downregulated,False
+GGH,3,"IHC3, IHC0, IHC1",Downregulated,False
+BBS7,3,"IHC3, IHC0, IHC1",Downregulated,False
+PMAIP1,3,"IHC3, IHC0, IHC1",Downregulated,False
+CREG1,3,"IHC3, IHC0, IHC1",Downregulated,False
+SRD5A1,3,"IHC3, IHC0, IHC1",Downregulated,False
+MYLK4,3,"IHC3, IHC0, IHC1",Downregulated,False
+CDKAL1,3,"IHC3, IHC0, IHC1",Downregulated,False
+TNFRSF21,3,"IHC3, IHC0, IHC2",Downregulated,False
+SH3KBP1,4,"IHC3, IHC0, IHC1, IHC2",Downregulated,False
+HAUS1,3,"IHC3, IHC0, IHC1",Downregulated,False
+ZIC1,3,"IHC3, IHC0, IHC1",Downregulated,False
+OTULIN,3,"IHC3, IHC0, IHC1",Downregulated,False
+UCHL1,3,"IHC3, IHC0, IHC1",Downregulated,False
+AGPAT5,3,"IHC3, IHC0, IHC1",Downregulated,False
+SLC16A1,3,"IHC3, IHC0, IHC1",Downregulated,False
+MRPL17,3,"IHC3, IHC0, IHC1",Downregulated,False
+PAXBP1,3,"IHC3, IHC0, IHC1",Downregulated,False
+DONSON,3,"IHC3, IHC0, IHC2",Downregulated,False
+NOL9,3,"IHC3, IHC0, IHC1",Downregulated,False
+GBP4,3,"IHC3, IHC0, IHC1",Downregulated,False
+IFI16,3,"IHC3, IHC0, IHC1",Downregulated,False
+GMPS,3,"IHC3, IHC0, IHC2",Downregulated,False
+IGF2BP2-AS1,3,"IHC3, IHC0, IHC1",Downregulated,False
+CGAS,3,"IHC3, IHC0, IHC1",Downregulated,False
+NFIL3,3,"IHC3, IHC0, IHC1",Downregulated,False
+TRIM44,3,"IHC3, IHC0, IHC2",Downregulated,False
+CLEC4E,3,"IHC3, IHC0, IHC1",Downregulated,False
+SAAL1,3,"IHC3, IHC0, IHC1",Downregulated,False
+SNRPD1,3,"IHC3, IHC0, IHC1",Downregulated,False
+BRD7P3,3,"IHC3, IHC1, IHC2",Downregulated,False
+CHRNA5,3,"IHC3, IHC0, IHC1",Downregulated,False
+MALT1,4,"IHC3, IHC0, IHC1, IHC2",Downregulated,False
+ZIC4,3,"IHC3, IHC0, IHC1",Downregulated,False
+ZFP82,3,"IHC3, IHC0, IHC1",Downregulated,False
+PSMG1,3,"IHC3, IHC0, IHC1",Downregulated,False
+LINC00839,3,"IHC3, IHC0, IHC1",Downregulated,False
+HPDL,3,"IHC3, IHC0, IHC1",Downregulated,False
+PLCG2,3,"IHC3, IHC0, IHC1",Downregulated,False
+SNHG12,3,"IHC3, IHC0, IHC1",Downregulated,False
+SLC9A6,3,"IHC3, IHC0, IHC1",Downregulated,False
+RN7SKP79,3,"IHC3, IHC0, IHC1",Downregulated,False
+HLCS-AS1,3,"IHC3, IHC1, IHC2",Downregulated,False
+PAICSP1,3,"IHC3, IHC0, IHC2",Downregulated,False
+SLC16A1-AS1,3,"IHC3, IHC0, IHC1",Downregulated,False
+NUTF2P5,3,"IHC3, IHC0, IHC1",Downregulated,False
+EMSLR,3,"IHC3, IHC0, IHC1",Downregulated,False
+HCCS-DT,3,"IHC3, IHC0, IHC1",Downregulated,False
+LRIG2-DT,3,"IHC3, IHC0, IHC1",Downregulated,False
+ETF1P2,3,"IHC3, IHC0, IHC1",Downregulated,False
+C4orf54,3,"IHC3, IHC0, IHC1",Downregulated,False
+SLC1A3-AS1,3,"IHC3, IHC0, IHC1",Downregulated,False
+TMEM108-AS1,3,"IHC3, IHC0, IHC1",Downregulated,False
+SINHCAFP1,3,"IHC3, IHC0, IHC1",Downregulated,False
+SLC6A14,3,"IHC3, IHC0, IHC2",Downregulated,False
+NUP153-AS1,3,"IHC3, IHC0, IHC1",Downregulated,False
+AFAP1-AS1,3,"IHC3, IHC0, IHC1",Downregulated,False
+ZBTB8B,3,"IHC3, IHC0, IHC2",Downregulated,False
+LINC01387,3,"IHC3, IHC0, IHC1",Downregulated,False
+RN7SKP179,3,"IHC3, IHC0, IHC1",Downregulated,False
+ZBED9-AS1,3,"IHC3, IHC0, IHC2",Downregulated,False
+CECR7,3,"IHC3, IHC0, IHC1",Downregulated,False

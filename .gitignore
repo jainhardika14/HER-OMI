@@ -1,0 +1,19 @@
+# Large downloaded data: rebuilt by scripts/00_download_data.sh, never committed
+data/raw/
+data/ref/
+data/ibcga/
+data/ibcga2/
+# Big intermediate tables (rebuilt by the pipeline)
+results/tnbctype_upload/
+results/covariates_tnbc.csv
+results/pathway_gradient_profiles.csv
+# Python and system clutter
+.venv/
+__pycache__/
+.DS_Store
+logs/
+# Presentation build folders and local tools (the deck lives in Claude; the study guide is kept)
+deck/
+ext/
+guide/sheet.html
+guide/STUDY_GUIDE.html
